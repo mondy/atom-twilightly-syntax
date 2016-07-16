@@ -1,5 +1,7 @@
 # twilightly-syntax theme
 
-A short description of your theme.
+Converted from Textmate theme.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+[Source](https://raw.githubusercontent.com/filmgirl/TextMate-Themes/master/Twilight.tmTheme)
+
+![Screenshot](http://inkdeep.github.io/TextMate-Themes/images/twilight.png)

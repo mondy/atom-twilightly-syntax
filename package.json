@@ -2,12 +2,12 @@
   "name": "twilightly-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "This is the Twilight theme",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/twilightly-syntax",
+  "repository": "https://github.com/mondy/atom-twilightly-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
